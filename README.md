@@ -32,3 +32,9 @@ Compliance is a universal. This project demonstrates:
 - **Library:** OpenAI Python SDK
 - **Output:** JSON for programmatic use
 
+## How to run
+
+1. `pip install openai`
+2. Add token to `compliance_tool.py` 
+3. RUN `python compliance_tool.py`
+
