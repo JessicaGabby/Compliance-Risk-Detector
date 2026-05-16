@@ -38,3 +38,6 @@ Compliance is a universal. This project demonstrates:
 2. Add token to `compliance_tool.py` 
 3. RUN `python compliance_tool.py`
 
+## Demo
+
+![Compliance Risk Detection Demo](compliancetool.png)
